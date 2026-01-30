@@ -25,6 +25,6 @@
 
 ・modelAlpha、modelBetaを作成するためのコード（.cpp）
 
-・modelAlpha、modelBetaの動作を記録した動画（.mov）
+・modelAlpha、modelBetaの動作を記録した動画と画像
 
 ※「Source code (zip / tar.gz)」は GitHub により自動生成されるものであり、本研究において作成・使用したものではありません。
