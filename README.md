@@ -23,7 +23,7 @@
 ## ファイルについて
 本リポジトリには、以下のファイルを含みます。
 
-・modelAlpha、modelBeta、modelGammaを作成するためのコード（.cpp）
+・modelAlpha、modelBeta、modelGammaを作成するためのコード（.ino）
 
 ・modelAlpha、modelBetaの動作を記録した動画と画像
 
